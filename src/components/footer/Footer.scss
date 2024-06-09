@@ -1,0 +1,36 @@
+#footer {
+  .container {
+    .footer {
+      margin-top: 63px;
+      gap: 54px;
+      p {
+        padding: 10px 0;
+      }
+      display: flex;
+      h5 {
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      .footerInp {
+        input {
+          background: none;
+          border: none;
+          outline: none;
+          padding: 2px 28px;
+          margin-top: 8px;
+        }
+        button {
+          border: none;
+          background: none;
+        }
+        p {
+          padding: 12px 0;
+        }
+        .footerLogo {
+          display: flex;
+          gap: 8px;
+          margin-top: 45px;
+        }
+      }
+    }
+  }
+}
